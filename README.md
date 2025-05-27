@@ -36,6 +36,14 @@ Saat deploy, token langsung mint 1 miliar COMMON ke alamat penerima yang ditentu
 
 ---
 
+## 📣 Connect With Me
+
+- 🐦 Twitter (X): [@kridopratomo90](https://twitter.com/kridopratomo90)  
+- 💬 Telegram: [@KridoPratomo](https://t.me/KridoPratomo)  
+- 💻 Discord: `zxw_`  
+- ▶️ YouTube: [kridopratomo](https://www.youtube.com/@kridopratomo)
+
+
 ## Contoh Deploy
 
 ```solidity
